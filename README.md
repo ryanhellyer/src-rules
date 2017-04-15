@@ -201,12 +201,11 @@ It is strictly forbidden to steer your vehicle against the normal direction of t
 The Curb is part of the track. There must be at least two tires on the track, otherwise it counts as a cut. A cut is when you leave the track to save time. If you come off the track by accident, just slow down so there is no time gained by leaving the track. A cut may be punished.
 
 
-[s]
-ESC control in official sessions
+[u]ESC control in official sessions[/u]
 
 If a vehicle outside of the pitlane, for whatever reason, comes to a standstill, it is prohibited to hit the escape button! One is only allowed to use the ESC Button, when in the pitlane (race). In qualifying it is always allowed to press ESC. Read more at 'Safety Car (SC)'.[/s]
 
-[u]Lights[.u]
+[u]Lights[/u]
 
 Lights are allowed to be used when the driver feels like it's neccessary. When lapping /overtaking/on a hotlap, the headlight flasher is allowed. Excessive use of these should be prevented, i.e. using it for many laps in a row. Flashing may also cause lower framerate on the flashed drivers PC, please remember that before you flash.
 
