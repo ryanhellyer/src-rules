@@ -468,8 +468,26 @@ There will be a race every two weeks, also during the night (so you need to use 
 There is the possibility to move the races by time and/or date. Changes will be voted on. A race can be moved 1 week forward or backward. Moving forward must be claimed a race before, moving backward must be claimed at least one week before the normal race date. Moving a race in time (normally 1 hour forward/backward) must be claimed not later than FP2 of the specific race.
 
 
+[u][lightblue]Article 2.19 - Weight Penalties[/lightblue][/u]
 
-[u][lightblue]Article 2.19 – Final clause[/lightblue][/u]
+There are weight penalties, awarded after each weekend. It goes as follows:
+
+P1: +50kg
+P2: +30kg
+P3: +10kg
+P4: +0kg
+P5: +0kg
+P6: +0kg
+P7: -10kg
+P8: -20kg
+P9: -30kg
+P10 -40kg
+>P10: -50kg
+
+Weights can stack up, but you cannot go below the default weight. Also, you only lose weight, when you are classified (reached at least 50% of the race distance in both races).
+The positions after a weekend are determined through the points scored on that weekend.
+
+[u][lightblue]Article 2.20 – Final clause[/lightblue][/u]
 
 The leadership of the SRC reserve the right to amend the rules if necessary, even during the race. It is prohibited to interpret rules to the drivers personal advantage. If you have problem with understanding a rule, please contact Tangofoxx, who can explain it in more detail.
 
