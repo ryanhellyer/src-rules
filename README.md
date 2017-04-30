@@ -470,7 +470,7 @@ There is the possibility to move the races by time and/or date. Changes will be 
 
 [u][lightblue]Article 2.19 - Weight Penalties[/lightblue][/u]
 
-There are weight penalties, awarded after each weekend. It goes as follows:
+There are weight penalties, awarded after each weekend based on the total points awarded. In the case of a points draw, both drivers get the higher penalty. The penalties are as follows:
 
 P1: +50kg
 P2: +30kg
